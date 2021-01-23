@@ -1,3 +1,4 @@
 Esta es la primera linea de codigo en vi de mac
+Este es un cambio que sacare de staging
 Mañana nos enfocaremos en su vida laboral.
 
